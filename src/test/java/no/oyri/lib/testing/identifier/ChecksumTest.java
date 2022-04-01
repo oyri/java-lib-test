@@ -1,4 +1,4 @@
-package no.oyri.java.lib.testing.identifier;
+package no.oyri.lib.testing.identifier;
 
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;

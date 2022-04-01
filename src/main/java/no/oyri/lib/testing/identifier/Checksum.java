@@ -1,4 +1,4 @@
-package no.oyri.java.lib.testing.identifier;
+package no.oyri.lib.testing.identifier;
 
 public class Checksum {
 
